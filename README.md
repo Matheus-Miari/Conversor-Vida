@@ -3,12 +3,13 @@
 Projeto simples criado para **treinamento em JavaScript**, focado em manipulação do DOM, uso de eventos, criação dinâmica de elementos e responsividade com CSS Flexbox.
 
 ---
-
 ## Sobre
 
 Este projeto gera curiosidades divertidas baseadas na data de nascimento do usuário, mostrando quantidades estimadas de dias vividos, horas dormidas, xícaras de café tomadas, passos dados, além de curiosidades sobre esportes, filmes e séries.
-  
+
 [Acesse aqui](https://conversor-inutil.vercel.app/)
+
+<img src="assets/Captura de tela de 2025-05-31 18-53-03.png">
 ---
 
 ## Tecnologias utilizadas
