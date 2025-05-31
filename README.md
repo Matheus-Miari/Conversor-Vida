@@ -7,8 +7,8 @@ Projeto simples criado para **treinamento em JavaScript**, focado em manipulaç�
 ## Sobre
 
 Este projeto gera curiosidades divertidas baseadas na data de nascimento do usuário, mostrando quantidades estimadas de dias vividos, horas dormidas, xícaras de café tomadas, passos dados, além de curiosidades sobre esportes, filmes e séries.
-
-
+  
+[Acesse aqui](https://conversor-inutil.vercel.app/)
 ---
 
 ## Tecnologias utilizadas
@@ -24,6 +24,7 @@ Este projeto gera curiosidades divertidas baseadas na data de nascimento do usu�
 
 - Layout com até 3 curiosidades por linha em telas maiores.  
 - Em telas menores (até 768px), mostra 1 curiosidade por vez para melhor leitura.
+<img src="assets/Captura de tela de 2025-05-31 18-53-14.png">
 
 ---
 
